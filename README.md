@@ -5,7 +5,10 @@
 - 🔭 Estou buscando uma oportunidade!
 - 🌱 Atualmente, estou estudando Swift
 - 📫 Como me contatar: carlosbarcelos@rede.ulbra.br
-
+- 
+<a href="https://www.linkedin.com/in/cebarcelos/" rel="nofollow">
+<img src = "{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+</a>
 
 ### Hello, visitor! 👋
   
