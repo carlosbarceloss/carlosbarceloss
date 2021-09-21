@@ -1,9 +1,9 @@
 ### Olá, visitante! 👋
 
-  Meu nome é Carlos Barcelos, moro em Passo de Torres, em Santa Catarina. Estou estudando a linguagem Swift com UIKit, utilizando de Storyboards e ViewCode para desenvolvimento de aplicativos, e após melhor dominar este framework, irei estudar também o framework SwiftUI. Meu nível de inglês é intermediário, consigo manter conversas, assistir a vídeos e ler documentos com facilidade, mas não domino a linguagem e pretendo iniciar um curso assim que empregado. Minha experiência com programação iniciou em 2018, quando iniciei o curso de Análise e Desenvolvimento de Sistemas, na ULBRA Campus Torres, onde tive contato com projetos em C, Java, JavaScript, React Native, Kotlin, Dart e também Swift. 
+  Meu nome é Carlos Barcelos. Estou trabalhando com a linguagem Swift com framework UIKit, utilizando ViewCode para desenvolver aplicativos. Meu nível de inglês é intermediário, consigo manter conversas, assistir a vídeos e ler documentos com facilidade. Minha experiência com programação começou em 2018, quando iniciei o curso de Análise e Desenvolvimento de Sistemas, na ULBRA Campus Torres, onde tive contato com projetos em C, Java, JavaScript, React Native, Kotlin, Dart e também Swift. 
 
-- 🔭 Estou buscando uma oportunidade!
-- 🌱 Atualmente, estou estudando Swift
+- 💼 Trabalhando na Stone Co.!
+- 🌱 Atualmente, estou estudando e trabalhando com Swift
 - 📫 Como me contatar: carlosbarcelos@rede.ulbra.br
 
 <a href="https://www.linkedin.com/in/cebarcelos/" rel="nofollow" target="_blank">
@@ -12,10 +12,10 @@
 
 ### Hello, visitor! 👋
   
-  My name is Carlos Barcelos, I live in Passo de Torres, in the state of Santa Catarina. I'm studying the language Swift with UIKit, using Storyboards and ViewCode to develop applications, and after better domain this framework, I'll study also SwiftUI. My English level is intermediary, can easily have conversations, watch videos and read documents, but I haven't mastered the language yet, so I intend to iniciate classes as soon I'm employed. My experience with programming started in 2018, when I started the System Analysis and Development course, at ULBRA Campus Torres, where I had contact with projects in C, Java, JavaScript, ReactNative, Kotlin, Dart and also Swift.
+  My name is Carlos Barcelos. I'm working with the Swift language, UIKit framework, using ViewCode to develop applications. My English level is intermediary, can easily have conversations, watch videos and read documents. My experience with programming started in 2018, when I started the System Analysis and Development course, at ULBRA Campus Torres, where I had contact with projects in C, Java, JavaScript, ReactNative, Kotlin, Dart and also Swift.
   
-- 🔭 I’m looking for a oportunity!
-- 🌱 I’m currently learning Swift.
+- 💼 Working at Stone Co.!
+- 🌱 Currently studying & working with Swift.
 - 📫 How to reach me: carlosbarcelos@rede.ulbra.br
 
 
