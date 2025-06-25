@@ -1,7 +1,13 @@
-### Hello, visitor! I'm Carlos Barcelos 👋
-  
-I'm a Swift developer, working mainly with UIKit framework and ViewCode to develop applications. My experience with programming started in 2018, when I started the Systems Analysis and Development course at ULBRA, where I had contact with projects in C, Java, JavaScript, ReactNative, Kotlin, Dart and also Swift. My career focus has been iOS since May/2021.
-  
-- 💼 Working at Stone Co.!
-- 🌱 Currently studying & working with Swift.
-- 📫 How to reach me: ceduardobarcelos@gmail.com
+### 👋 Hi, I'm Carlos Barcelos
+
+I'm a **Mobile Engineer** with a strong focus on **Swift (SwiftUI & UIKit)** and **Kotlin Multiplatform**. I’ve been working on bridging iOS and Android codebases through shared architecture, helping teams deliver consistent experiences while reducing platform-specific duplication.
+
+Currently, I’m working at **Stone Co.**, where I lead efforts to migrate legacy mobile apps to a **modern, modular architecture** using SwiftUI and KMP — integrating shared ViewModels, service layers, and state management across platforms.
+
+#### 🛠️ Tech highlights
+- **SwiftUI**, **UIKit**, **Combine**, **SwiftData**  
+- **Kotlin Multiplatform**, **Jetpack Compose**, **Compose Multiplatform**  
+- Shared logic across platforms, **modular codebases**, and **testable architectures**  
+- Focus on performance, maintainability, and seamless migration paths
+
+📫 Reach me at **ceduardobarcelos@gmail.com**
